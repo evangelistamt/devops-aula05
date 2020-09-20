@@ -3,8 +3,8 @@ def inicializar():
 	for i in range(3):
 		linha = [ ]
 		for j in range(3):
-			linha.append(".")
-		tab.append(linha)
+			linha.append("X")
+		tab.ap pend(linha)
 	return tab
 
 def main( ):
